@@ -1,4 +1,4 @@
-avahi (0.7-4ubuntu7) focal; urgency=medium
+avahi (0.7-4ubuntu8) unstable; urgency=medium
 
   * Remove avahi-daemon-check-dns.sh hack, the feature is provided by
     libnss-mdns now (lp: #1870824)
