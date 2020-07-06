@@ -1,4 +1,4 @@
-avahi (0.8-3ubuntu1) groovy; urgency=low
+avahi (0.8-3ubuntu2) unstable; urgency=low
 
   * Merge from Debian unstable.  Remaining changes:
     - Remove avahi-daemon-check-dns.sh hack, the feature is provided by
